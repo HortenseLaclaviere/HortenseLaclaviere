@@ -3,6 +3,7 @@
   <img src="Banniere_LinkedIn.png" alt="Banner">
   
 Apprenante à Ada Tech School, je découvre le code et le monde de la tech un peu plus chaque jour.
+Ici, vous trouverez un aperçu de mes compétences et de mes projets en matière de développement web.
 
 <br> :computer: Apprentie développeuse en renconversion à [Ada Tech school](https://adatechschool.fr/) 
 <br> :memo: Etudes de com dans une autre vie 
