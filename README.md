@@ -14,4 +14,4 @@ Ici, vous trouverez un aperçu de mes compétences et de mes projets en matière
   
 ---
   
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HortenseLaclaviere&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HortenseLaclaviere&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HortenseLaclaviere&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HortenseLaclaviere&theme=default)
