@@ -10,6 +10,8 @@ Ici, vous trouverez un aperçu de mes compétences et de mes projets en matière
 <br> :sunny: Appétence pour le Front-End
 <br> :globe_with_meridians: Pour en savoir plus sur mon profil n'hésitez pas à visiter [mon portfolio](https://portfolio-hortenselaclaviere.vercel.app/)
 
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,php,mysql)](https://skillicons.dev)
+  
 ---
   
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HortenseLaclaviere&theme=default)[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,php,mysql)](https://skillicons.dev)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HortenseLaclaviere&theme=default)
