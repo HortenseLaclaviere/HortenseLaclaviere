@@ -7,4 +7,6 @@ Apprenante à Ada Tech School, je découvre le code et le monde de la tech un pe
 <br> :sunny: Appétence pour le Front-End
 <br> :globe_with_meridians: Pour en savoir plus sur mon profil n'hésitez pas à visiter [mon portfolio](https://portfolio-hortenselaclaviere.vercel.app/)
 
-
+---
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?HortenseLaclaviere=vn7n24fzkq&theme=default)
