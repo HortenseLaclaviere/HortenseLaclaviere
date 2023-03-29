@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil Github :dizzy: :dizzy:<a href="https://www.linkedin.com/in/hortense-laclavi%C3%A8re-b02654151/" target="_blank" rel="nofollow"><img align="right" alt="Hortense Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
 
-  <img src="" alt="Banner">
+  <img src="Banniere_LinkedIn.png" alt="Banner">
   
 Apprenante à Ada Tech School, je découvre le code et le monde de la tech un peu plus chaque jour.
 
