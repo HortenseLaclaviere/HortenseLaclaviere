@@ -2,7 +2,7 @@
 
   <img src="Banniere_LinkedIn.png" alt="Banner">
   
-Depuis deux ans je développe en Django et en Htmx pour les sites web [Brief.me](https://www.brief.me/), [Brief.eco](https://www.brief.eco/), et [Brief.science](https://www.brief.science/)
+Depuis 2023 je développe en Django et en Htmx pour les sites web [Brief.me](https://www.brief.me/), [Brief.eco](https://www.brief.eco/), et [Brief.science](https://www.brief.science/)
 
 <br> :computer: Développeuse web chez [Brief.media](https://www.brief.me/)
 <br> 🎓 Renconversion pour devenir développeuse à [Ada Tech school](https://adatechschool.fr/) 
